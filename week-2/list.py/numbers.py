@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+
+#this is a single line comment
+#python program to illustarate the use of operators
+# Name : Starlex Mugo
+# Email : starlexmugo3@gmail.com
+# Date : 17th Feb 2023
+# File : operators.py
+
 numbers={}
 sum_num=0
 
